@@ -1,0 +1,12 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2773FF #rice blue
+  secondary: 2F3B61 #0a509e   
+  secondary-dark: 0a509e
+  muted: 777
+  white: F8F8FF
+
+# Font Families
+font:
+  primary: 'Optima, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: 'Optima, "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
